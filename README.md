@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # WAREHOUSEIQ AI — Hackathon V3
 
 This version makes AI the core of the product instead of a separate dashboard feature.
@@ -58,6 +57,7 @@ Then open **Decision Engine** and apply the 7-unit allocation recommendation.
 React/Vite UI -> Express server -> OpenAI Responses API
 
 The API key is server-side only.
-=======
-# warehouseiq-ai
->>>>>>> 04ce32c94ee4cf9c72b88de489dda79b700d4c7a
+
+
+## Inventory V4
+Expanded to 80 SKUs across 16 device and warehouse categories. Each item includes an image, specifications, stock, reserved units, reorder point, price and warehouse location. Product cards open into a detailed AI inventory recommendation.
