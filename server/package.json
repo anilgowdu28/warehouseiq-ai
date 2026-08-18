@@ -1,0 +1,16 @@
+{
+  "name": "warehouseiq-ai-server",
+  "private": true,
+  "version": "3.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "latest",
+    "dotenv": "latest",
+    "express": "latest",
+    "openai": "latest"
+  }
+}
